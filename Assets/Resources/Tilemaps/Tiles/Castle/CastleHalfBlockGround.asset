@@ -215,6 +215,7 @@ MonoBehaviour:
     m_RuleTransform: 0
   siblings:
   - {fileID: 11400000, guid: f5b1012adba51db42b587a40f22883ce, type: 2}
+  - {fileID: 11400000, guid: 0932cc1ce5daa4848aa5a42ea30be75f, type: 2}
   isBackgroundTile: 0
   iceSkidding: 0
   footstepSound: 31

@@ -213,7 +213,8 @@ MonoBehaviour:
     m_Neighbors: 
     m_NeighborPositions: []
     m_RuleTransform: 0
-  siblings: []
+  siblings:
+  - {fileID: 11400000, guid: c8f50311f4ba87b458857ebbeea4837f, type: 2}
   isBackgroundTile: 0
   iceSkidding: 0
   footstepSound: 31
